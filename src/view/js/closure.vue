@@ -67,7 +67,7 @@ export default {
     // fn1();
     let objInfo = [];
 
-    let info = {};
+    let info = { name: "" };
     return {
       info,
     };
