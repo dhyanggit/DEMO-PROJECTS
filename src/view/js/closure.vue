@@ -67,6 +67,7 @@ export default {
     // fn1();
     let objInfo = [];
 
+    let info = {};
     return {
       info,
     };
