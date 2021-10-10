@@ -65,6 +65,7 @@ export default {
     // };
     // fn1();
 
+    let info = {};
     return {
       info,
     };
