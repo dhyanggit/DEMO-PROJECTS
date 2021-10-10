@@ -65,6 +65,7 @@ export default {
     //   console.log(total);
     // };
     // fn1();
+    let objInfo = [];
 
     return {
       info,
