@@ -67,7 +67,7 @@ export default {
     // fn1();
     let objInfo = [];
 
-    let info = { name: "", age: 32222, sex: "男" };
+    let info = { name: "ding", age: 32222, sex: "男" };
     return {
       info,
     };
