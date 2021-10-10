@@ -9,7 +9,7 @@
 import { ref } from "vue";
 export default {
   setup() {
-    let info = ref("");
+    let info = ref("10");
     // 第一1次
     // 第2次
     // 第三次
@@ -65,7 +65,7 @@ export default {
     // };
     // fn1();
 
-    let info = {};
+    let info = { row: 31 };
     return {
       info,
     };
